@@ -3,7 +3,6 @@ import Link from "next/link";
 import { deleteInvoice } from '@/app/lib/actions';
 
 
-
 export function CreateInvoice() {
   return (
     <Link
